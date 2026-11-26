@@ -1,0 +1,10 @@
+{
+    "Model": "KNN",
+    "Feature": "DPC",
+    "Best_Parameters": {
+        "n_neighbors": 11,
+        "p": 1,
+        "weights": "distance"
+    },
+    "Best_Validation_MSE": 0.3253908654856752
+}

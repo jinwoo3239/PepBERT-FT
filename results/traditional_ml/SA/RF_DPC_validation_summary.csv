@@ -1,0 +1,19 @@
+Model,Feature,Parameters,Mean_Validation_MSE,SD_Validation_MSE
+RF,DPC,"{""max_depth"": null, ""min_samples_leaf"": 2, ""n_estimators"": 500}",0.2881976332003003,0.015995137722224335
+RF,DPC,"{""max_depth"": null, ""min_samples_leaf"": 2, ""n_estimators"": 300}",0.2886459582285677,0.016602016251685156
+RF,DPC,"{""max_depth"": null, ""min_samples_leaf"": 1, ""n_estimators"": 500}",0.2892184815035657,0.01491840001605934
+RF,DPC,"{""max_depth"": null, ""min_samples_leaf"": 1, ""n_estimators"": 300}",0.2895701191009866,0.014241647894048118
+RF,DPC,"{""max_depth"": null, ""min_samples_leaf"": 2, ""n_estimators"": 100}",0.2897309865716658,0.014949933361521756
+RF,DPC,"{""max_depth"": null, ""min_samples_leaf"": 1, ""n_estimators"": 100}",0.2907720092038459,0.013606346707773553
+RF,DPC,"{""max_depth"": 20, ""min_samples_leaf"": 2, ""n_estimators"": 500}",0.3312409141743774,0.020188595147646066
+RF,DPC,"{""max_depth"": 20, ""min_samples_leaf"": 2, ""n_estimators"": 300}",0.3313123605247065,0.020688123485955896
+RF,DPC,"{""max_depth"": 20, ""min_samples_leaf"": 2, ""n_estimators"": 100}",0.331534129444556,0.019354901075695142
+RF,DPC,"{""max_depth"": 20, ""min_samples_leaf"": 1, ""n_estimators"": 300}",0.33161537109631223,0.02026784971729823
+RF,DPC,"{""max_depth"": 20, ""min_samples_leaf"": 1, ""n_estimators"": 500}",0.33179122803726474,0.019771066741980037
+RF,DPC,"{""max_depth"": 20, ""min_samples_leaf"": 1, ""n_estimators"": 100}",0.33190704584011116,0.019391599696006494
+RF,DPC,"{""max_depth"": 10, ""min_samples_leaf"": 2, ""n_estimators"": 300}",0.3647418177770539,0.022482192844195146
+RF,DPC,"{""max_depth"": 10, ""min_samples_leaf"": 2, ""n_estimators"": 500}",0.364920231028653,0.022230348256817706
+RF,DPC,"{""max_depth"": 10, ""min_samples_leaf"": 1, ""n_estimators"": 300}",0.36516184779305094,0.02219153921104831
+RF,DPC,"{""max_depth"": 10, ""min_samples_leaf"": 1, ""n_estimators"": 500}",0.36535348145884916,0.022014170613403317
+RF,DPC,"{""max_depth"": 10, ""min_samples_leaf"": 2, ""n_estimators"": 100}",0.36554553488020713,0.022221275717218297
+RF,DPC,"{""max_depth"": 10, ""min_samples_leaf"": 1, ""n_estimators"": 100}",0.36605803451889585,0.021565209638427212

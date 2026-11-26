@@ -1,0 +1,10 @@
+{
+    "Model": "SVR",
+    "Feature": "DPC",
+    "Best_Parameters": {
+        "C": 1,
+        "epsilon": 0.1,
+        "gamma": "scale"
+    },
+    "Best_Validation_MSE": 0.3200543554405931
+}

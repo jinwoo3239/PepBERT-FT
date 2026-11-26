@@ -1,0 +1,14 @@
+﻿Dataset processing stage,Records / pairs (n),Unique sequences (n)
+Initial DBAASP peptide entries,25542,21268
+Antimicrobial activity records,197338,20869
+MIC records,142169,16863
+Standard amino acid filtering and unit conversion,111256,13690
+MIC filtering (censored and invalid values excluded),86259,12153
+MIC aggregation by peptide-species pair,53827,12153
+Peptide length and MIC range filtering,51502,11770
+Final EC dataset,8426,8426
+EC training set,7583,7583
+EC test set,843,843
+Final SA dataset,7325,7325
+SA training set,6592,6592
+SA test set,733,733

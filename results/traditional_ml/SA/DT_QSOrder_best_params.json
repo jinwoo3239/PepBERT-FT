@@ -1,0 +1,10 @@
+{
+    "Model": "DT",
+    "Feature": "QSOrder",
+    "Best_Parameters": {
+        "max_depth": 10,
+        "min_samples_leaf": 2,
+        "min_samples_split": 10
+    },
+    "Best_Validation_MSE": 0.37236194013197776
+}

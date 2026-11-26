@@ -1,0 +1,25 @@
+Model,Feature,Parameters,Mean_Validation_MSE,SD_Validation_MSE
+DT,QSOrder,"{""max_depth"": 10, ""min_samples_leaf"": 2, ""min_samples_split"": 10}",0.3723619401319777,0.015617072858746202
+DT,QSOrder,"{""max_depth"": 10, ""min_samples_leaf"": 1, ""min_samples_split"": 10}",0.37502265543995217,0.017038395920687243
+DT,QSOrder,"{""max_depth"": 10, ""min_samples_leaf"": 1, ""min_samples_split"": 5}",0.37593999271212797,0.015629915244933974
+DT,QSOrder,"{""max_depth"": 10, ""min_samples_leaf"": 2, ""min_samples_split"": 5}",0.3792332370553776,0.016483874470946104
+DT,QSOrder,"{""max_depth"": 10, ""min_samples_leaf"": 2, ""min_samples_split"": 2}",0.38024994403188883,0.020406990933024092
+DT,QSOrder,"{""max_depth"": 5, ""min_samples_leaf"": 1, ""min_samples_split"": 2}",0.38101260947823823,0.0216408720951649
+DT,QSOrder,"{""max_depth"": 5, ""min_samples_leaf"": 2, ""min_samples_split"": 10}",0.38118733099682683,0.021177906398870506
+DT,QSOrder,"{""max_depth"": 5, ""min_samples_leaf"": 2, ""min_samples_split"": 2}",0.3815685975574684,0.021639993225112328
+DT,QSOrder,"{""max_depth"": 5, ""min_samples_leaf"": 2, ""min_samples_split"": 5}",0.3815685975574684,0.021639993225112328
+DT,QSOrder,"{""max_depth"": 5, ""min_samples_leaf"": 1, ""min_samples_split"": 5}",0.3815739827852417,0.021865916764215943
+DT,QSOrder,"{""max_depth"": 5, ""min_samples_leaf"": 1, ""min_samples_split"": 10}",0.38180165341949523,0.021929114013944925
+DT,QSOrder,"{""max_depth"": 10, ""min_samples_leaf"": 1, ""min_samples_split"": 2}",0.38193124606570594,0.01006632203896039
+DT,QSOrder,"{""max_depth"": 20, ""min_samples_leaf"": 2, ""min_samples_split"": 10}",0.4530525709564506,0.033324173569412516
+DT,QSOrder,"{""max_depth"": 20, ""min_samples_leaf"": 1, ""min_samples_split"": 10}",0.46367469727186894,0.03582290242922673
+DT,QSOrder,"{""max_depth"": null, ""min_samples_leaf"": 2, ""min_samples_split"": 10}",0.4686903688002559,0.023969560067922127
+DT,QSOrder,"{""max_depth"": 20, ""min_samples_leaf"": 2, ""min_samples_split"": 5}",0.4809967825115769,0.04048107698522615
+DT,QSOrder,"{""max_depth"": null, ""min_samples_leaf"": 1, ""min_samples_split"": 10}",0.4866584439215199,0.02347161988867487
+DT,QSOrder,"{""max_depth"": 20, ""min_samples_leaf"": 1, ""min_samples_split"": 5}",0.4885398849217454,0.02380276811865325
+DT,QSOrder,"{""max_depth"": 20, ""min_samples_leaf"": 2, ""min_samples_split"": 2}",0.4930079239100441,0.04004659035109651
+DT,QSOrder,"{""max_depth"": 20, ""min_samples_leaf"": 1, ""min_samples_split"": 2}",0.5058073549672972,0.02919501473340731
+DT,QSOrder,"{""max_depth"": null, ""min_samples_leaf"": 2, ""min_samples_split"": 5}",0.506827935853708,0.029938376212283926
+DT,QSOrder,"{""max_depth"": null, ""min_samples_leaf"": 2, ""min_samples_split"": 2}",0.5168816905828375,0.039581194524900075
+DT,QSOrder,"{""max_depth"": null, ""min_samples_leaf"": 1, ""min_samples_split"": 5}",0.5214345292417985,0.023649334499401185
+DT,QSOrder,"{""max_depth"": null, ""min_samples_leaf"": 1, ""min_samples_split"": 2}",0.5422786754169888,0.017454321725583522

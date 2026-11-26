@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Manuscript files
+manuscript/
+*.docx
+*.pptx
+*.enl
+*.Data/
+
+# Environment variables
+.env
+
+# Large Random Forest models
+**/RF_QSOrder*.joblib

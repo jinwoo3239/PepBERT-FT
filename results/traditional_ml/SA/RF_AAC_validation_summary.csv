@@ -1,0 +1,19 @@
+Model,Feature,Parameters,Mean_Validation_MSE,SD_Validation_MSE
+RF,AAC,"{""max_depth"": null, ""min_samples_leaf"": 2, ""n_estimators"": 500}",0.28590492554378805,0.028596545712925463
+RF,AAC,"{""max_depth"": null, ""min_samples_leaf"": 2, ""n_estimators"": 300}",0.28700317460879493,0.02849360684302806
+RF,AAC,"{""max_depth"": null, ""min_samples_leaf"": 1, ""n_estimators"": 500}",0.2878919610086186,0.02997081984739943
+RF,AAC,"{""max_depth"": null, ""min_samples_leaf"": 1, ""n_estimators"": 300}",0.2884513608671907,0.02971222468266377
+RF,AAC,"{""max_depth"": null, ""min_samples_leaf"": 2, ""n_estimators"": 100}",0.28940519364518547,0.02900437101229437
+RF,AAC,"{""max_depth"": 20, ""min_samples_leaf"": 2, ""n_estimators"": 500}",0.28971313069722215,0.027573850961129052
+RF,AAC,"{""max_depth"": 20, ""min_samples_leaf"": 1, ""n_estimators"": 500}",0.29013450237798255,0.028924803702482862
+RF,AAC,"{""max_depth"": 20, ""min_samples_leaf"": 1, ""n_estimators"": 300}",0.2904458379841605,0.028600091775604398
+RF,AAC,"{""max_depth"": 20, ""min_samples_leaf"": 2, ""n_estimators"": 300}",0.2905364027173374,0.027650148086990116
+RF,AAC,"{""max_depth"": null, ""min_samples_leaf"": 1, ""n_estimators"": 100}",0.29103916915164024,0.030940155727006324
+RF,AAC,"{""max_depth"": 20, ""min_samples_leaf"": 2, ""n_estimators"": 100}",0.29285206898177046,0.027850864441997948
+RF,AAC,"{""max_depth"": 20, ""min_samples_leaf"": 1, ""n_estimators"": 100}",0.29287408537618165,0.029805814920903766
+RF,AAC,"{""max_depth"": 10, ""min_samples_leaf"": 2, ""n_estimators"": 500}",0.33076836111296737,0.02594784908321188
+RF,AAC,"{""max_depth"": 10, ""min_samples_leaf"": 2, ""n_estimators"": 300}",0.3309383414989275,0.026251241361271414
+RF,AAC,"{""max_depth"": 10, ""min_samples_leaf"": 2, ""n_estimators"": 100}",0.3318213291759836,0.026077009152802037
+RF,AAC,"{""max_depth"": 10, ""min_samples_leaf"": 1, ""n_estimators"": 500}",0.3318648517104611,0.02630501845466863
+RF,AAC,"{""max_depth"": 10, ""min_samples_leaf"": 1, ""n_estimators"": 300}",0.33215825155913314,0.026608429973270033
+RF,AAC,"{""max_depth"": 10, ""min_samples_leaf"": 1, ""n_estimators"": 100}",0.3322411791380767,0.026638402125713303

@@ -1,0 +1,9 @@
+Stage,Operation,Records,Reduction,Reduction_Percent,Retention_Percent
+Original activity records,Source,197338,0,0.0,100.0
+MIC selection,Filtering,142169,55169,27.956602377646472,72.04339762235352
+MIC parsing,Processing,142169,0,0.0,72.04339762235352
+AA filtering and unit conversion,Filtering,111256,30913,21.74384007765406,56.37839645684055
+Valid MIC filtering,Filtering,86259,24997,22.468001725749623,43.71129736796765
+Species standardization,Processing,86259,0,0.0,43.71129736796765
+MIC aggregation,Aggregation,53827,32432,37.59839552974182,27.276550892377543
+Length and MIC range filtering,Filtering,51502,2325,4.319393612870864,26.098369295320715

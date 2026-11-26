@@ -1,0 +1,10 @@
+{
+    "Model": "RF",
+    "Feature": "QSOrder",
+    "Best_Parameters": {
+        "max_depth": null,
+        "min_samples_leaf": 1,
+        "n_estimators": 500
+    },
+    "Best_Validation_MSE": 0.2734239177381146
+}

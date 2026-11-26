@@ -1,0 +1,9 @@
+Dataset,Model,Feature,Best_Parameters,Validation_MSE,Validation_SD
+EC,DT,QSOrder,"{""max_depth"": 10, ""min_samples_leaf"": 1, ""min_samples_split"": 10}",0.3917076105747544,0.0266711476115853
+EC,KNN,QSOrder,"{""n_neighbors"": 7, ""p"": 1, ""weights"": ""distance""}",0.2975386270005253,0.0297852960031028
+EC,RF,QSOrder,"{""max_depth"": null, ""min_samples_leaf"": 1, ""n_estimators"": 500}",0.2791386249126412,0.0224013951226924
+EC,SVR,QSOrder,"{""C"": 1, ""epsilon"": 0.1, ""gamma"": 0.1}",0.2808461305622504,0.0270040057598945
+SA,DT,QSOrder,"{""max_depth"": 10, ""min_samples_leaf"": 2, ""min_samples_split"": 10}",0.3723619401319777,0.0156170728587462
+SA,KNN,QSOrder,"{""n_neighbors"": 7, ""p"": 1, ""weights"": ""distance""}",0.2912967495597888,0.0174502257838695
+SA,RF,QSOrder,"{""max_depth"": null, ""min_samples_leaf"": 1, ""n_estimators"": 500}",0.2734239177381145,0.0125677068011103
+SA,SVR,QSOrder,"{""C"": 1, ""epsilon"": 0.1, ""gamma"": 0.1}",0.2793600122094352,0.0162901337274416

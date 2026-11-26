@@ -1,0 +1,13 @@
+Dataset,Model,Feature,Seed,Validation_MSE,Model_Path
+EC,DT,QSOrder,44,0.3615812872016986,C:\Users\jinwo\Desktop\PepBert_REV\models\traditional_ml\EC\DT_QSOrder_best.joblib
+EC,KNN,QSOrder,45,0.26099466307172065,C:\Users\jinwo\Desktop\PepBert_REV\models\traditional_ml\EC\KNN_QSOrder_best.joblib
+EC,PepBERT,MEAN (FC3),45,0.23277738690376282,C:\Users\jinwo\Desktop\PepBert_REV\models\pepbert\best_models\EC_mean_best.pt
+EC,PepBERT,SOS (FC1),46,0.22353485226631165,C:\Users\jinwo\Desktop\PepBert_REV\models\pepbert\best_models\EC_sos_best.pt
+EC,RF,QSOrder,45,0.25616405873548387,C:\Users\jinwo\Desktop\PepBert_REV\models\traditional_ml\EC\RF_QSOrder_best.joblib
+EC,SVR,QSOrder,45,0.2521818966990733,C:\Users\jinwo\Desktop\PepBert_REV\models\traditional_ml\EC\SVR_QSOrder_best.joblib
+SA,DT,QSOrder,45,0.34691173940452485,C:\Users\jinwo\Desktop\PepBert_REV\models\traditional_ml\SA\DT_QSOrder_best.joblib
+SA,KNN,QSOrder,46,0.26289480594538667,C:\Users\jinwo\Desktop\PepBert_REV\models\traditional_ml\SA\KNN_QSOrder_best.joblib
+SA,PepBERT,MEAN (FC1),42,0.25092536211013794,C:\Users\jinwo\Desktop\PepBert_REV\models\pepbert\best_models\SA_mean_best.pt
+SA,PepBERT,SOS (FC2),46,0.2417203038930893,C:\Users\jinwo\Desktop\PepBert_REV\models\pepbert\best_models\SA_sos_best.pt
+SA,RF,QSOrder,46,0.25113154663611403,C:\Users\jinwo\Desktop\PepBert_REV\models\traditional_ml\SA\RF_QSOrder_best.joblib
+SA,SVR,QSOrder,46,0.25441785325918354,C:\Users\jinwo\Desktop\PepBert_REV\models\traditional_ml\SA\SVR_QSOrder_best.joblib

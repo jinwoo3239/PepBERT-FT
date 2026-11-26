@@ -1,0 +1,10 @@
+{
+    "Model": "DT",
+    "Feature": "CTDC",
+    "Best_Parameters": {
+        "max_depth": 5,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2
+    },
+    "Best_Validation_MSE": 0.43450856556379247
+}

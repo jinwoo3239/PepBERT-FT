@@ -1,0 +1,19 @@
+Model,Feature,Parameters,Mean_Validation_MSE,SD_Validation_MSE
+RF,QSOrder,"{""max_depth"": null, ""min_samples_leaf"": 1, ""n_estimators"": 500}",0.27342391773811453,0.012567706801110391
+RF,QSOrder,"{""max_depth"": null, ""min_samples_leaf"": 2, ""n_estimators"": 500}",0.27362425661226136,0.012466634314118576
+RF,QSOrder,"{""max_depth"": null, ""min_samples_leaf"": 1, ""n_estimators"": 300}",0.2741257577029236,0.012746141853659496
+RF,QSOrder,"{""max_depth"": null, ""min_samples_leaf"": 2, ""n_estimators"": 300}",0.27461457683397933,0.01263687690334001
+RF,QSOrder,"{""max_depth"": null, ""min_samples_leaf"": 1, ""n_estimators"": 100}",0.2749694574075111,0.013456141664300095
+RF,QSOrder,"{""max_depth"": null, ""min_samples_leaf"": 2, ""n_estimators"": 100}",0.2751400895489492,0.01290312783887486
+RF,QSOrder,"{""max_depth"": 20, ""min_samples_leaf"": 1, ""n_estimators"": 500}",0.27546360540508386,0.013039513330766202
+RF,QSOrder,"{""max_depth"": 20, ""min_samples_leaf"": 2, ""n_estimators"": 500}",0.27602764974822147,0.01272420306265182
+RF,QSOrder,"{""max_depth"": 20, ""min_samples_leaf"": 1, ""n_estimators"": 300}",0.27646184696126597,0.013109855281003146
+RF,QSOrder,"{""max_depth"": 20, ""min_samples_leaf"": 2, ""n_estimators"": 300}",0.2768699234724887,0.01297677321590338
+RF,QSOrder,"{""max_depth"": 20, ""min_samples_leaf"": 1, ""n_estimators"": 100}",0.2777152588469161,0.013923359830166652
+RF,QSOrder,"{""max_depth"": 20, ""min_samples_leaf"": 2, ""n_estimators"": 100}",0.2779281338629297,0.01365758275348408
+RF,QSOrder,"{""max_depth"": 10, ""min_samples_leaf"": 2, ""n_estimators"": 500}",0.30930502774503765,0.015441225998425396
+RF,QSOrder,"{""max_depth"": 10, ""min_samples_leaf"": 1, ""n_estimators"": 500}",0.30970485951907134,0.016107983057131084
+RF,QSOrder,"{""max_depth"": 10, ""min_samples_leaf"": 2, ""n_estimators"": 100}",0.3100205084035336,0.01550645866932666
+RF,QSOrder,"{""max_depth"": 10, ""min_samples_leaf"": 2, ""n_estimators"": 300}",0.3101498385483256,0.015303122717336127
+RF,QSOrder,"{""max_depth"": 10, ""min_samples_leaf"": 1, ""n_estimators"": 300}",0.31057030648105016,0.016033429647559442
+RF,QSOrder,"{""max_depth"": 10, ""min_samples_leaf"": 1, ""n_estimators"": 100}",0.31083814976567414,0.015438856061362161

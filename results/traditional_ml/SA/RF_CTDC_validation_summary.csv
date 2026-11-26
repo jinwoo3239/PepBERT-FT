@@ -1,0 +1,19 @@
+Model,Feature,Parameters,Mean_Validation_MSE,SD_Validation_MSE
+RF,CTDC,"{""max_depth"": null, ""min_samples_leaf"": 1, ""n_estimators"": 500}",0.2944461805145738,0.024625498898362446
+RF,CTDC,"{""max_depth"": null, ""min_samples_leaf"": 2, ""n_estimators"": 500}",0.2947748338210848,0.024515399072516653
+RF,CTDC,"{""max_depth"": null, ""min_samples_leaf"": 2, ""n_estimators"": 300}",0.2949414162067835,0.024135609963109844
+RF,CTDC,"{""max_depth"": null, ""min_samples_leaf"": 1, ""n_estimators"": 300}",0.2949653204392411,0.024074773680647806
+RF,CTDC,"{""max_depth"": null, ""min_samples_leaf"": 2, ""n_estimators"": 100}",0.29547405192283516,0.024274123774324557
+RF,CTDC,"{""max_depth"": null, ""min_samples_leaf"": 1, ""n_estimators"": 100}",0.29644141501102855,0.02567637421538234
+RF,CTDC,"{""max_depth"": 20, ""min_samples_leaf"": 1, ""n_estimators"": 500}",0.2965139525090049,0.024359629045616515
+RF,CTDC,"{""max_depth"": 20, ""min_samples_leaf"": 2, ""n_estimators"": 500}",0.29670380870377916,0.02451453047742121
+RF,CTDC,"{""max_depth"": 20, ""min_samples_leaf"": 1, ""n_estimators"": 300}",0.29685022165689096,0.02374595008841764
+RF,CTDC,"{""max_depth"": 20, ""min_samples_leaf"": 2, ""n_estimators"": 300}",0.2970677618938605,0.024284684306025518
+RF,CTDC,"{""max_depth"": 20, ""min_samples_leaf"": 2, ""n_estimators"": 100}",0.2975961109284517,0.02471550767350897
+RF,CTDC,"{""max_depth"": 20, ""min_samples_leaf"": 1, ""n_estimators"": 100}",0.2979667063391592,0.024101211156695574
+RF,CTDC,"{""max_depth"": 10, ""min_samples_leaf"": 2, ""n_estimators"": 500}",0.33659625829849577,0.025190977073887063
+RF,CTDC,"{""max_depth"": 10, ""min_samples_leaf"": 1, ""n_estimators"": 500}",0.3367300538419431,0.024509601760036248
+RF,CTDC,"{""max_depth"": 10, ""min_samples_leaf"": 2, ""n_estimators"": 100}",0.33687274756249924,0.02582066029390614
+RF,CTDC,"{""max_depth"": 10, ""min_samples_leaf"": 1, ""n_estimators"": 300}",0.33695728019985377,0.024930342686148122
+RF,CTDC,"{""max_depth"": 10, ""min_samples_leaf"": 2, ""n_estimators"": 300}",0.33696310269938645,0.02544730072421316
+RF,CTDC,"{""max_depth"": 10, ""min_samples_leaf"": 1, ""n_estimators"": 100}",0.3376136596593532,0.02528450673349971

@@ -1,0 +1,10 @@
+{
+    "Model": "KNN",
+    "Feature": "CTDT",
+    "Best_Parameters": {
+        "n_neighbors": 7,
+        "p": 1,
+        "weights": "distance"
+    },
+    "Best_Validation_MSE": 0.33992338230367203
+}

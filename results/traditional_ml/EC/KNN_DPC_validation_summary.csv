@@ -1,0 +1,17 @@
+Model,Feature,Parameters,Mean_Validation_MSE,SD_Validation_MSE
+KNN,DPC,"{""n_neighbors"": 7, ""p"": 1, ""weights"": ""distance""}",0.32189029663747293,0.038540852146775405
+KNN,DPC,"{""n_neighbors"": 11, ""p"": 1, ""weights"": ""distance""}",0.32393066964046385,0.03585067664902227
+KNN,DPC,"{""n_neighbors"": 5, ""p"": 1, ""weights"": ""distance""}",0.3259663481298061,0.040000725818876384
+KNN,DPC,"{""n_neighbors"": 5, ""p"": 1, ""weights"": ""uniform""}",0.34038437219921913,0.04011361152318382
+KNN,DPC,"{""n_neighbors"": 7, ""p"": 1, ""weights"": ""uniform""}",0.34240064859845665,0.03951757543082443
+KNN,DPC,"{""n_neighbors"": 3, ""p"": 1, ""weights"": ""distance""}",0.34601064271334253,0.04032897704099278
+KNN,DPC,"{""n_neighbors"": 11, ""p"": 1, ""weights"": ""uniform""}",0.35160313679481214,0.03661365109821944
+KNN,DPC,"{""n_neighbors"": 3, ""p"": 1, ""weights"": ""uniform""}",0.355185190589259,0.040618421623983936
+KNN,DPC,"{""n_neighbors"": 7, ""p"": 2, ""weights"": ""distance""}",0.3597954350194109,0.026127793514872676
+KNN,DPC,"{""n_neighbors"": 5, ""p"": 2, ""weights"": ""distance""}",0.3606585568921516,0.027150444388163154
+KNN,DPC,"{""n_neighbors"": 11, ""p"": 2, ""weights"": ""distance""}",0.36446114348536696,0.025876277187051242
+KNN,DPC,"{""n_neighbors"": 3, ""p"": 2, ""weights"": ""distance""}",0.3697397275840122,0.0277448969931372
+KNN,DPC,"{""n_neighbors"": 5, ""p"": 2, ""weights"": ""uniform""}",0.3724706235900979,0.02943793178335832
+KNN,DPC,"{""n_neighbors"": 7, ""p"": 2, ""weights"": ""uniform""}",0.37653985932592804,0.0263023362859987
+KNN,DPC,"{""n_neighbors"": 3, ""p"": 2, ""weights"": ""uniform""}",0.37662378012291653,0.03030666903203011
+KNN,DPC,"{""n_neighbors"": 11, ""p"": 2, ""weights"": ""uniform""}",0.38437761747467925,0.027445659634999342

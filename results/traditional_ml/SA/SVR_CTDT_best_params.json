@@ -1,0 +1,10 @@
+{
+    "Model": "SVR",
+    "Feature": "CTDT",
+    "Best_Parameters": {
+        "C": 1,
+        "epsilon": 0.1,
+        "gamma": 0.1
+    },
+    "Best_Validation_MSE": 0.3232212446611911
+}

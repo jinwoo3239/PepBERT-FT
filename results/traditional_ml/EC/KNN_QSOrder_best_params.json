@@ -1,0 +1,10 @@
+{
+    "Model": "KNN",
+    "Feature": "QSOrder",
+    "Best_Parameters": {
+        "n_neighbors": 7,
+        "p": 1,
+        "weights": "distance"
+    },
+    "Best_Validation_MSE": 0.2975386270005253
+}

@@ -1,0 +1,10 @@
+{
+    "Model": "RF",
+    "Feature": "CTDT",
+    "Best_Parameters": {
+        "max_depth": null,
+        "min_samples_leaf": 2,
+        "n_estimators": 500
+    },
+    "Best_Validation_MSE": 0.3118185651083941
+}
