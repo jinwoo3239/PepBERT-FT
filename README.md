@@ -15,7 +15,6 @@ The framework fine-tunes pretrained PepBERT for MIC regression using two sequenc
 | `src/` | Python modules for data processing, model training, and evaluation |
 | `models/` | Pretrained models and trained model checkpoints |
 | `results/` | Training histories, predictions, and evaluation results |
-| `figures/` | Generated figures |
 
 ## Installation
 
